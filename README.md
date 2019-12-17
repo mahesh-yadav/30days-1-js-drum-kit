@@ -1,3 +1,7 @@
-# javascript-project-setup
+# Javascript Drum Kit
 
-Creates a basic javascript project setup with lite-server
+This project displays a list of keys and plays corresponding sound as the key is pressed
+
+## Screenshot
+
+![](./screenshots/app.png)
